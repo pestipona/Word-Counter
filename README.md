@@ -2,7 +2,7 @@
 
 ## Counting word occurrence:
 
-In this **program**, you'll need to start with a **given string** that contains a **number of words**. Then, define the **number of times each word appears** in the **given text**. After that point, you will see what the **top three words** used are.
+In this **program**, you'll need to start with a **given string** that contains a **number of words**. The program sorts the words using callback functions and built-in array methods in JavaScript. After that point, you will see what the **top three words** used are.
 
 The ```starter code``` already has some of this **functionality implemented**. Please **go through the code** in the ```wordcount.js``` file and **read the comments** to understand **how this logic** will work.
 
